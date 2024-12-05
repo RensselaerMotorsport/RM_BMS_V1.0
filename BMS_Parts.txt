@@ -1,0 +1,11 @@
+BMS Parts:
+ADBMS6830BCSWZ 16-Channel Multicell Battery Monitor IC
+	- Directly connects to cells and measures a cell stack
+	- 1 per 16S cells
+ADBMS2950WCCSZ Battery Pack Monitor IC 
+	- Overall pack monitor
+	- 1 per BMS
+ADBMS6822 Single/Dual isoSPI Transceiver IC
+	- Allows communication from computer to BMS
+	- 1 per BMS
+
